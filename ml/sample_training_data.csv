@@ -1,0 +1,11 @@
+food_category,quantity_kg,hours_until_deadline,distance_km,previous_claim_rate,claimed_before_deadline
+Cooked Meals,8,4,3.2,0.82,1
+Bakery,4,16,2.1,0.76,1
+Cooked Meals,25,1,18.0,0.30,0
+Fruits & Vegetables,6,8,4.5,0.65,1
+Packaged Food,12,20,11.0,0.55,1
+Cooked Meals,30,2,15.0,0.28,0
+Bakery,3,10,2.8,0.80,1
+Dairy,9,3,12.0,0.35,0
+Packaged Food,5,24,5.0,0.72,1
+Cooked Meals,18,2,9.5,0.40,0
